@@ -41,3 +41,11 @@ print("---------------------------TASK 4-----------------------------")
 # Якщо ні, то виведіть повідомлення про помилку.
 # (використайте цикл while)
 
+login = "First"
+
+login_vvid = input("Enter your login: ")
+
+def login_check (login)
+    if login == "First"
+        print("Congrats")
+         
