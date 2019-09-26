@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ea599b-94f5-4606-afe1-af5b8f48bbaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Classwork_Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork_Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork_collections.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classwork_Loops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classwork_collections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -42,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classwork_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
+            <state relative-caret-position="425">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -116,14 +99,14 @@
         <option value="$PROJECT_DIR$/Task1_3.py" />
         <option value="$PROJECT_DIR$/Task2_1.py" />
         <option value="$PROJECT_DIR$/Classwork.py" />
-        <option value="$PROJECT_DIR$/Classwork_collections.py" />
         <option value="$PROJECT_DIR$/Classwork_functions.py" />
         <option value="$PROJECT_DIR$/Codewars_task1_2_3.py" />
         <option value="$PROJECT_DIR$/Classwork_Loops.py" />
+        <option value="$PROJECT_DIR$/Classwork_collections.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="130" />
     <option name="y" value="138" />
     <option name="width" value="1384" />
@@ -166,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Classwork_Loops">
+  <component name="RunManager" selected="Python.Classwork_collections">
     <configuration name="Classwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,9 +257,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Classwork_collections" />
         <item itemvalue="Python.Classwork_Loops" />
         <item itemvalue="Python.Classwork_functions" />
-        <item itemvalue="Python.Classwork_collections" />
         <item itemvalue="Python.Classwork" />
         <item itemvalue="Python.Task2_1" />
       </list>
@@ -296,21 +279,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="138" width="1384" height="759" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35215452" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6901932" visible="true" weight="0.52715653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.69072706" visible="true" weight="0.3575298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.30980682" side_tool="true" visible="true" weight="0.52715653" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.30927292" side_tool="true" visible="true" weight="0.3575298" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,7 +310,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Classwork_collections.py</url>
-          <line>5</line>
+          <line>12</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
@@ -336,13 +319,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Task#1.py" />
     <entry file="file://$PROJECT_DIR$/Task2_1.py" />
-    <entry file="file://$PROJECT_DIR$/Task2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Task1_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -378,24 +354,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classwork_collections.py">
+    <entry file="file://$PROJECT_DIR$/Classwork_Loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="387">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classwork_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="425">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classwork_Loops.py">
+    <entry file="file://$PROJECT_DIR$/Classwork_collections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
