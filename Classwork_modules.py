@@ -4,21 +4,21 @@ print("---------------------------TASK 1-----------------------------")
 # Програма зчитує числа, які вводить користувач і видає користувачу підказки про те чи загадане число більше чи менше за введене користувачем.
 # Гра має тривати до моменту поки користувач не введе число, яке загадане програмою, тоді друкує повідомлення привітання.
 # (для виконання завдання необхідно імпортувати  модуль random, а з нього функцію randint())
-# import random
-#
-# correct_answer = random.randint(1,100)
-# warm_zone_1 = correct_answer - 5
-# warm_zone_2 = correct_answer + 5
-# while True:
-#     user_answer = int(input("Введіть число: "))
-#     if user_answer > correct_answer:
-#         print ("Твоє число більше загаданого")
-#     elif user_answer < correct_answer:
-#         print ("Твоє число менше загаданого")
-#     elif user_answer==correct_answer:
-#         print("Вітаю. Ти вгадав")
-#         break
-#
+import random
+
+correct_answer = random.randint(1,100)
+warm_zone_1 = correct_answer - 5
+warm_zone_2 = correct_answer + 5
+while True:
+    user_answer = int(input("Введіть число: "))
+    if user_answer > correct_answer:
+        print ("Твоє число більше загаданого")
+    elif user_answer < correct_answer:
+        print ("Твоє число менше загаданого")
+    elif user_answer==correct_answer:
+        print("Вітаю. Ти вгадав")
+        break
+
 
 
 
