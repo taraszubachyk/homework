@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ea599b-94f5-4606-afe1-af5b8f48bbaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Are You Playing Banjo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convert boolean values to strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Are You Playing Banjo.py">
+        <entry file="file://$PROJECT_DIR$/Convert boolean values to strings.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -49,6 +48,7 @@
         <option value="$PROJECT_DIR$/Find The Distance Between Two Points.py" />
         <option value="$PROJECT_DIR$/Will there be enough space.py" />
         <option value="$PROJECT_DIR$/Are You Playing Banjo.py" />
+        <option value="$PROJECT_DIR$/Convert boolean values to strings.py" />
       </list>
     </option>
   </component>
@@ -366,6 +366,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Are You Playing Banjo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert boolean values to strings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
