@@ -30,7 +30,7 @@ task = int(input("Площу якої фігури ви хочете обчис�
 if task == 1:
     x = float(input("Сторона A: "))
     y = float(input("Сторона В: "))
-    area = area_of_the_rectangle(x,y)
+    area = x*y
     print("Площа прямокутника: ", area)
 
 elif task == 2:
