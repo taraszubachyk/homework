@@ -27,5 +27,5 @@ class Square(Figure):
         self.height = height
 
 c1 = Rectangle(12,23,"red")
-
+print (c1.area())
 
