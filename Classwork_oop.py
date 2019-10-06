@@ -8,18 +8,24 @@ print("---------------------------TASK 1-----------------------------")
 
 class Figure:
     def __init__(self,color):
-        self.get_color = color
-        self = self
-    # def __repr__(self):
-    #     return f"{self}"
+        self.color = color
+    def get_color(self):
+        return print(self.color)
     def info(self):
-        return print( f"This is {self.get_color} ")
-
-class Square(Figure, width, high):
-
-    def square(self,a,b):
-        return print(a*b)
+        return print( f"Figure is {self.color} color")
+    def area(self):
+        return self.width * self.height
 class Rectangle(Figure):
-    pass
+    def __init__(self, width, height, color):
+        super().__init__(color)
+        self.width = width
+        self.height = height
+class Square(Figure):
+    def __init__(self, width, height, color):
+        super().__init__(color)
+        self.width = width
+        self.height = height
 
-c1 = Square()
+c1 = Rectangle(12,23,"red")
+
+
