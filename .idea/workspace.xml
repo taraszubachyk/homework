@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ea599b-94f5-4606-afe1-af5b8f48bbaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classwork_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork_pygame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classy Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classy Classes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classwork_pygame.py">
+        <entry file="file://$PROJECT_DIR$/Classy Classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state>
+              <caret selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -74,10 +74,10 @@
         <option value="$PROJECT_DIR$/Basic subclasses - Adam and Eve.py" />
         <option value="$PROJECT_DIR$/Classwork_Exeption.py" />
         <option value="$PROJECT_DIR$/Color Ghost.py" />
-        <option value="$PROJECT_DIR$/Classy Classes.py" />
         <option value="$PROJECT_DIR$/../../Task2_1.py" />
         <option value="$PROJECT_DIR$/Classwork_oop.py" />
         <option value="$PROJECT_DIR$/Classwork_pygame.py" />
+        <option value="$PROJECT_DIR$/Classy Classes.py" />
       </list>
     </option>
   </component>
@@ -134,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Classwork_pygame">
+  <component name="RunManager" selected="Python.Classy Classes">
     <configuration name="Classwork_Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Color Ghost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Classy Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Color Ghost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classy Classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Classy Classes" />
         <item itemvalue="Python.Classwork_pygame" />
         <item itemvalue="Python.Classwork_oop" />
         <item itemvalue="Python.Classwork_Loops" />
         <item itemvalue="Python.Task2_1" />
-        <item itemvalue="Python.Color Ghost" />
       </list>
     </recent_temporary>
   </component>
@@ -573,9 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classy Classes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classwork_oop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -585,8 +582,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classwork_pygame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classy Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
         </state>
       </provider>
     </entry>
